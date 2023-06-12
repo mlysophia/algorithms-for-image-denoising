@@ -1,1 +1,0 @@
-# algorithms-for-image-denoising
